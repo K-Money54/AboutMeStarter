@@ -10,7 +10,7 @@ public class AboutMe {
 		int myAge = 16;	
 		double myHeightInMetres = 1.82;
 			
-        System.out.println("Hi, my name is " + myName);
+        System.out.println("Hi, my name is " + myName +".");
         System.out.println("I am " + myAge + " years old.");
         System.out.println("My height is " + myHeightInMetres + " m.");
 
